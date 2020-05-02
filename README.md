@@ -1,2 +1,3 @@
 # jd-comment-analyse
-Emotional analysis of Jingdong comments
+A simple small program based on Python machine learning for sentiment analysis JD comment
+
